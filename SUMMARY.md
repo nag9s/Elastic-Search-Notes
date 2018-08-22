@@ -7,4 +7,5 @@
   * [Facets Vs Aggregations](facets-vs-aggregations.md)
 * [Filters](filters.md)
 * [References](references.md)
+* [Tools](tools.md)
 
