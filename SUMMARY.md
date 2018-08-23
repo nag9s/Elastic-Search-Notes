@@ -11,5 +11,6 @@
   * [Query and filter context](query-and-filter-context.md)
     * [Query  context](query-and-filter-context/query-context.md)
     * [Filter context ](query-and-filter-context/filter-context.md)
+    * [termQuery vs. termFilter](query-and-filter-context/termquery-vs-termfilter.md)
   * [Term level queries vs full text queries ](term-level-queries-vs-full-text-queries.md)
 
