@@ -19,4 +19,8 @@
 * [Elastic Search Networking](elastic-search-networking.md)
 * [Logstash](logstash.md)
   * [HighAvailability](logstash/highavailability.md)
+* [KeyConcepts](keyconcepts.md)
+  * Shard
+  * Segment
+  * Translog
 
