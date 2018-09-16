@@ -21,6 +21,6 @@
   * [HighAvailability](logstash/highavailability.md)
 * [KeyConcepts](keyconcepts.md)
   * Shard
-  * Segment
+  * [Segment](keyconcepts/segment.md)
   * Translog
 
