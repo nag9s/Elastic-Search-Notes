@@ -23,4 +23,5 @@
   * Shard
   * [Segment](keyconcepts/segment.md)
   * Translog
+* Document CRUD operations
 
