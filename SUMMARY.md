@@ -28,4 +28,5 @@
 * [Filtered Vs filter](filtered-vs-filter.md)
 * [adv topics](adv-topics.md)
 * [Relevance](relevance.md)
+  * BM25 Scoring Formula
 
