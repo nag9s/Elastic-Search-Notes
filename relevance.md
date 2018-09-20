@@ -1,2 +1,2 @@
-Default Apache Lucene scoring explained
+Default Apache Lucene scoring explained - Elasticsearch complete guide
 
