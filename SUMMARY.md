@@ -26,4 +26,5 @@
 * [Document CRUD operations](document-crud-operations.md)
   * [Updates](document-crud-operations/updates.md)
 * [Filtered Vs filter](filtered-vs-filter.md)
+* [adv topics](adv-topics.md)
 
