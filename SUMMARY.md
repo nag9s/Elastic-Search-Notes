@@ -19,6 +19,7 @@
 * [Elastic Search Networking](elastic-search-networking.md)
 * [Logstash](logstash.md)
   * [HighAvailability](logstash/highavailability.md)
+  * [Grok patterns](logstash/grok-patterns.md)
 * [KeyConcepts](keyconcepts.md)
   * Shard
   * [Segment](keyconcepts/segment.md)
@@ -29,4 +30,5 @@
 * [adv topics](adv-topics.md)
 * [Relevance](relevance.md)
   * [BM25 Scoring Formula](relevance/bm25-scoring-formula.md)
+* Named   Queries
 
