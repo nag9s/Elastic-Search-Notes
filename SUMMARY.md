@@ -11,6 +11,7 @@
   * [Query and filter context](query-and-filter-context.md)
     * [Query  context](query-and-filter-context/query-context.md)
     * [Filter context ](query-and-filter-context/filter-context.md)
+    * [Filtered Vs filter](filtered-vs-filter.md)
     * [termQuery vs. termFilter](query-and-filter-context/termquery-vs-termfilter.md)
   * [Term level queries vs full text queries ](term-level-queries-vs-full-text-queries.md)
 * [Parent Child Relationship](parent-child-relationship.md)
@@ -26,9 +27,8 @@
   * Translog
 * [Document CRUD operations](document-crud-operations.md)
   * [Updates](document-crud-operations/updates.md)
-* [Filtered Vs filter](filtered-vs-filter.md)
 * [adv topics](adv-topics.md)
 * [Relevance](relevance.md)
   * [BM25 Scoring Formula](relevance/bm25-scoring-formula.md)
-* Named   Queries
+* [Named   Queries](named-queries.md)
 
